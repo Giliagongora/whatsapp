@@ -1,0 +1,92 @@
+*{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+body{
+	padding: 0;
+	margin: 0;
+	background-color: #dadada;
+}
+.one{
+	/*background-color: #429a83;*/
+}
+
+#perfil{
+	margin-top: 7%;
+
+	background-color: #d0d0d0;
+	height: 50px;
+	width: 100%;
+}
+#img-perfil{
+	height: 30px;
+	width: auto;
+	margin-top: 4%;
+	margin-left: 3%;
+
+}
+
+#buscar input{
+	width: 90%;
+}
+#buscar{
+	background-color: white;
+	height: 50px;
+	padding-top: 4%;
+	padding-left: 5%;
+	font-size: 65%;
+}
+.chats{
+	margin-top: 3%;
+	background-color: #d0d0d0;
+	height: 50px;
+	width: 100%;	
+}
+#peruLab{
+	height: 50px;
+	width: auto;
+	background-color: white;
+	border: 1px solid #9c9a9a;
+}
+#img-logocode{
+	height: 30px;
+	width: 30px;
+	margin-top: 3%;
+	margin-left: 3%;
+}
+#labpe{
+	display: inline;
+	font-size: 3%;
+	font-size: 71%;
+	padding-left: 2%;
+}
+a{
+    color: #014c8c;
+    text-decoration: none;
+}
+.contactos{
+	height: 50px;
+}
+.read{
+	background-image: url(../img/chat-panel-bg.png);
+	width: 100%;
+	height: 400px;
+}
+.backwrite{
+	height: 50px;
+}
+#textin{
+	margin-top: 3%;
+	width: 80%;
+	margin-left: 14%;
+	margin-right: 2%;
+	margin-bottom: 3%;
+}
+.ellipse{
+	margin-left: 5%;
+}
+i.fa.fa-ellipsis-v{
+	padding-top: 2%;
+	padding-left: 83%;
+}
